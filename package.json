@@ -4,6 +4,7 @@
   "description": "Connect and report to slack",
   "main": "index.js",
   "dependencies": {
+    "moment": "^2.10.6",
     "oauth": "^0.9.14"
   },
   "devDependencies": {},
