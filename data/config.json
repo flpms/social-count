@@ -1,0 +1,14 @@
+[
+    {
+        "network" : "twitter",
+        "client_id" : "7ViIWzeaPMyTUxPjdIp0p0jGc",
+        "client_secret" : "Oq9d0Oh31NpT5O6Xi7baiPkoE15OcmZozKeBW7oMIxgKBx7WDI",
+        "tokenEndPoint" : "oauth2/token" 
+    },
+    {
+        "network" : "instagram",
+        "client_id" : "7ViIWzeaPMyTUxPjdIp0p0jGc",
+        "client_secret" : "Oq9d0Oh31NpT5O6Xi7baiPkoE15OcmZozKeBW7oMIxgKBx7WDI",
+        "tokenEndPoint" : "oauth2/token" 
+    }
+]
