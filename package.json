@@ -2,10 +2,13 @@
   "name": "social-count",
   "version": "0.0.2",
   "description": "Connect and report to slack",
-  "main": "index.js",
+  "main": "lib/index.js",
   "dependencies": {
+    "instagram-node-lib": "^0.1.1",
     "moment": "^2.10.6",
-    "oauth": "^0.9.14"
+    "oauth": "^0.9.14",
+    "q": "^1.4.1",
+    "twitter": "^1.2.5"
   },
   "devDependencies": {},
   "scripts": {
