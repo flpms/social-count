@@ -28,4 +28,4 @@ node_modules/
 
 
 # For security ignore this folder
- data/
+ data/*
