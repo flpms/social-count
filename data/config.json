@@ -1,14 +1,19 @@
-[
-    {
-        "network" : "twitter",
-        "client_id" : "7ViIWzeaPMyTUxPjdIp0p0jGc",
-        "client_secret" : "Oq9d0Oh31NpT5O6Xi7baiPkoE15OcmZozKeBW7oMIxgKBx7WDI",
-        "tokenEndPoint" : "oauth2/token" 
+{
+    "slack" : { 
+        "hostname" : "hooks.slack.com",
+        "path" : "/services/T07JW8JLE/B0A7U0Z9B/6wnGbbJ0Iv2swDK5H4JlMohi"
     },
-    {
-        "network" : "instagram",
-        "client_id" : "7ViIWzeaPMyTUxPjdIp0p0jGc",
-        "client_secret" : "Oq9d0Oh31NpT5O6Xi7baiPkoE15OcmZozKeBW7oMIxgKBx7WDI",
-        "tokenEndPoint" : "oauth2/token" 
+    "twitter" : {
+        "user_name" : "acontecidodia",
+        "consumer_key" : "Mqe9DBpQ20TnRHpfs30AKfedl",
+        "consumer_secret" : "auaWxoiSpFLkclJO3b4duVlFme96MTgTwqhbPhi5n1KooKu4oF",
+        "access_token_key" : "3330134019-TNIpudOkfkzOLmWnOH5a42OCZ5ZIIQ5dSSyx87v",
+        "access_token_secret" : "gs8bhE8v5YXv6xe4WJrDSSOEZLSNjNV6wd4YZ17bzqgrI"
+    },
+    "instagram" : {
+        "user_name" : "acontecidodia",
+        "client_id" : "e3b96313904e422fabfdd7b95ddd5d19",
+        "client_secret" : "2d9e6f84816349e389855a5da8dcdb76",
+        "user_id" : 1900978543
     }
-]
+}
